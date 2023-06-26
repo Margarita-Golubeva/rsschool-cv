@@ -8,7 +8,7 @@
 
 * Phone: +7995*-*-**
 
-* Telegram: [https://t.me/stardustmeg](https://t.me/stardustmeg)
+* Telegram: <https://t.me/stardustmeg>
 
 * E-mail: <margaret.golubeva@mail.ru>
 
