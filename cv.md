@@ -34,10 +34,12 @@
 
 ## Code example
 
-_The task is here._
+_This code does not execute properly. Try to figure out why._
 
 ```
-Code is here
+function multiply(a, b){
+  return a*b
+}
 ```
 
 ## Experience
