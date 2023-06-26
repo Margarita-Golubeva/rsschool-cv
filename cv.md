@@ -1,5 +1,3 @@
-![my photo](Photo.jpg)
-
 # Margarita Golubeva
 
 *************
@@ -58,4 +56,6 @@ Code is here
 
 * [EF - C2](https://www.efset.org/cert/TFJxRc)
 
-* [EPAM - C1](https://examinator.epam.com/passing/attendances/676925)
+* EPAM - C1
+
+![epam result](Screenshot_1.png)
