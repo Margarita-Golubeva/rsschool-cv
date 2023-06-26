@@ -1,51 +1,61 @@
-#Margarita Golubeva
+![my photo](Photo.jpg)
 
-##My Contact Info
+# Margarita Golubeva
 
-Phone: 
+*************
 
-Telegram: 
+## My Contact Info
 
-E-mail:
+* Phone: +7995*-*-**
 
-GitHub:
+* Telegram: https://t.me/stardustmeg
 
-LinkedIn: https://www.linkedin.com/in/margarita-golubeva-742605114/
+* E-mail: margaret.golubeva@mail.ru
 
-##About Me
+* GitHub: https://github.com/Margarita-Golubeva
 
-I'm an eager and persistent learner who's passionate about getting into a new field. My work as an English teacher for IT led me to realizing that I'm really into IT sphere. I have good communication skills, logical mindset, and willingness to learn. So I'm hoping to put my skills and knowledge into developing together with your company.
+* LinkedIn: https://www.linkedin.com/in/margarita-golubeva-742605114/
 
-##My skills
+*************
 
-HTML
+## About Me
 
-CSS
+> I'm an eager and persistent learner who's passionate about getting into a new field. My work as an English teacher for IT led me to realizing that I'm really into the IT sphere. I have good communication skills, logical mindset, and willingness to learn. So I'm hoping to put my skills and knowledge into developing together with your company.
 
-JavaScript
+## My skills
 
-Git/GitHub
+* HTML
 
-VS Code
+* CSS
 
-##Code example
+* JavaScript
 
+* Git/GitHub
+
+* VS Code
+
+## Code example
+
+_The task is here._
+
+```
 Code is here
+```
 
-##Experience
+## Experience
 
-(to be filled someday)
+* Yandex.Practicum (2023-current)
 
-##Education
+## Education
 
-RS School Front-End Developer Certificate (2024)
+* RS School Front-End Developer Certificate (2024)
 
-Meta Front-End Developer Professional Certificate (2023)
+* Meta Front-End Developer Professional Certificate (2023)
 
-VSU named after P.M. Masherov (2012-2017)
+* VSU named after P.M. Masherov (2012-2017)
 
-##English
+## English
 
-EF - C2 https://www.efset.org/cert/TFJxRc
+* [EF - C2](https://www.efset.org/cert/TFJxRc)
 
-EPAM - C1 https://examinator.epam.com/passing/attendances/676925
+* [EPAM - C1](https://examinator.epam.com/passing/attendances/676925)
