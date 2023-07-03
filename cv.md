@@ -7,8 +7,8 @@
 - Phone: +7995*-*-**
 - Telegram: https://t.me/stardustmeg
 - E-mail: margaret.golubeva@mail.ru
-- GitHub
-- LinkedIn
+- [GitHub](https://github.com/Margarita-Golubeva)
+- [LinkedIn](https://www.linkedin.com/in/margarita-golubeva-742605114/)
 
 *************
 
@@ -49,4 +49,6 @@ function multiply(a, b){
 ## English
 
 - [EF - C2](https://www.efset.org/cert/TFJxRc)
-- ![EPAM - C1](/Screenshot_1.png)
+- EPAM - C1
+
+!(/Screenshot_1.png "EPAM English Result")
