@@ -29,11 +29,9 @@
 _This code does not execute properly. Try to figure out why._
 
 ```
-
 function multiply(a, b){
   return a*b
 }
-
 ```
 
 ## Experience
@@ -51,4 +49,4 @@ function multiply(a, b){
 - [EF - C2](https://www.efset.org/cert/TFJxRc)
 - EPAM - C1
 
-!(/Screenshot_1.png "EPAM English Result")
+![EPAM English Result](/Screenshot_1.png)
