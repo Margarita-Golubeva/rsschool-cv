@@ -106,7 +106,7 @@ ul li {
     size: 100%;
     text-align: center;
     background-image: url(https://rs.school/images/rs_school_js.svg);
-    background-position: right;
+    background-position: center;
     background-repeat: no-repeat;
   }
 
@@ -117,5 +117,4 @@ ul li {
 
   #year {
     text-align: center;
-    font-style: normal;
   }
