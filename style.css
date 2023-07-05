@@ -1,13 +1,121 @@
-body {
-    background-color: rgb(170, 215, 250);
+header {
+  background-color: #006241;
+  size: 100%;
+  padding: 10px;
+  margin-bottom: 5px;
+  font-size: 120%;
+  text-align: center;
+}
+
+ul.list li{
+    display: inline;
+    padding: 25px;
+  }
+
+a:link {
+  color: #e2e2e1e9;
+  text-decoration: underline;
+  text-align: center;
+}
+
+a:visited {
+  color: #e2e2e1e9;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+}
+
+#photo {
+  border-radius: 8px;
+  border-style: double;
+  border-width: 5px;
+  margin-left: 30%;
+}
+
+ul li {
+  font-size: 120%;
+}
+
+.div1 {
+  color: #e2e2e1e9;
+}
+
+#div1 {
+  flex-basis: 70%;
+  background-color: #1e3932;
+  color: #e2e2e1e9;
+  padding: 15px;
+  margin-right: 5px;
+  font-size: 120%;
+}
+
+#div2 {
+    background-color: #d4e9e2;
+    padding: 15px;
+    border-left: 15px #1e3932 double;
+    color: #1e3932;
+    font-size: 120%;
   }
   
   h1 {
-    color: white;
+    font-family: Helvetica, Arial, sans-serif;
     text-align: center;
+    font-size: 200%;
+    font-weight: 500;
+  }
+
+  h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #1e3932;
+    text-align: center;
+    font-weight: 500;
   }
   
   p {
-    font-family: verdana;
-    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+    color: #1e3932;
+  }
+
+  pre {
+    text-align: left;
+    border: 2px #1e3932 dashed;
+    background-color: #e2e2e1e9;
+    padding: 0px 30px;
+    margin: 0px 50px;
+  }
+
+  code {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 120%;
+  }
+
+  footer {
+    background-color: #848484;
+    display: inline-flexbox;
+    margin-top: 5px;
+    font-size: 120%;
+    padding: 10px 10px 0px 10px;
+    size: 100%;
+    text-align: center;
+    background-image: url(https://rs.school/images/rs_school_js.svg);
+    background-position: right;
+    background-repeat: no-repeat;
+  }
+
+  .footer1 {
+    font-style: normal;
+    text-align: left;
+  }
+
+  #year {
+    text-align: center;
+    font-style: normal;
   }

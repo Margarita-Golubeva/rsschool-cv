@@ -9,7 +9,7 @@
 <body>
     <header>
         <nav>
-            <ul>
+            <ul class="list">
                 <li><a href="#contact-info">Contact Info</a></li>
                 <li><a href="#about-me">About Me</a></li>
                 <li><a href="#skills">Skills</a></li>
@@ -22,77 +22,67 @@
             </ul>
         </nav>
     </header>
-
     <main>
-    <img src="Photo.jpg" height="200px" alt="photo">
-    <h1>Margarita Golubeva</h1>
-
-    <h2 id="contact-info">Contact Info</h2>
-        <ul>
-            <li>+7-995-265-50-99</li>
-            <li>margaret.golubeva@mail.ru</li>
-            <li><a href="https://t.me/stardustmeg" target="_blank">Telegram</a></li>
-            <li><a href="https://github.com/Margarita-Golubeva" target="_blank">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/margarita-golubeva-742605114/" target="_blank">LinkedIn</a></li>
-        </ul>
-
-    <h2 id="about-me">About Me</h2>
-    <p>I'm an eager and persistent learner who's passionate about getting into a new field. My work as an English teacher for IT led me to realizing that I'm really into the IT sphere. I have good communication skills, logical mindset, and willingness to learn. So I'm hoping to put my skills and knowledge into developing together with your company.</p>
-
-    <h2 id="skills">Skills</h2>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>Git/GitHub</li>
-            <li>VS Code</li>
-        </ul>
-
-    <h2 id="code-example">Code Example</h2>
-    <p>This code does not execute properly. Try to figure out why.</p>
-    <pre><code>
-        <p>function multiply(a, b){
-                return a*b
-            }</p>
-        </code></pre>
-
-    <h2 id="experience">Experience</h2>
-    <ul>
-        <li>English Teacher for IT at Yandex.Practicum (02/2023-current)</li>
-    </ul>
-
-
-    <h2 id="education">Education</h2>
-    <ul>
-        <li>VSU named after P.M. Masherov (2012-2017)</li>
-    </ul>
-
-    <h2 id="additional-education">Additional Education</h2>
-    <ul>
-        <li>RS School Front-End Developer Certificate (2024)</li>
-        <li>Meta Front-End Developer Professional Certificate (2023)</li>
-    </ul>
-
-    <h2 id="english">English</h2>
-    <ul>
-        <li><a href="https://www.efset.org/cert/TFJxRc" target="_blank">EF SET - C2</a></li>
-        <li>EPAM - C1</li>
-    </ul>
-    <img src="Screenshot_1.png" width="100%" alt="test results">
-
-    <h2 id="projects">Projects</h2>
-    <ul>
-        <li><a href="https://margarita-golubeva.github.io/rsschool-cv/" target="_blank">RS School Project</a></li>
-    </ul>
-    
+    <div class="flex-container">
+        <div id="div1">
+            <img id="photo" src="Photo.jpg" height="200px" alt="photo">
+            <h1 class="div1">Margarita Golubeva</h1>
+            <h2 id="contact-info" class="div1">Contact Info</h2>
+                <ul>
+                    <li>8-995-265-50-99</li>
+                    <li>margaret.golubeva@mail.ru</li>
+                    <li><a href="https://t.me/stardustmeg" target="_blank">Telegram</a></li>
+                    <li><a href="https://github.com/Margarita-Golubeva" target="_blank">GitHub</a></li>
+                    <li><a href="https://www.linkedin.com/in/margarita-golubeva-742605114/" target="_blank">LinkedIn</a></li>
+                </ul>
+            <h2 id="skills" class="div1">Skills</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Git/GitHub</li>
+                    <li>VS Code</li>
+                </ul>
+            <h2 id="english" class="div1">English</h2>
+                <ul>
+                    <li><a href="https://www.efset.org/cert/TFJxRc" target="_blank">EF SET - C2</a></li>
+                    <li><a href="https://disk.yandex.ru/i/qKNNPoMuSSNp1A" target="_blank">EPAM - C1</a></li>
+                </ul>
+        </div>
+        <div id="div2">
+            <h2 id="about-me">About Me</h2>
+            <p>I'm an eager and persistent learner who's passionate about getting into a new field. My work as an English teacher for IT led me to realizing that I'm really into the IT sphere. I have good communication skills, logical mindset, and willingness to learn. So I'm hoping to put my skills and knowledge into developing together with your company.</p>
+            <h2 id="code-example">Code Example</h2>
+            <p>This code does not execute properly. Try to figure out why.</p>
+            <pre>
+                <code>
+                    function multiply(a, b){
+                        return a*b }</code>
+            </pre>    
+            <h2 id="experience">Experience</h2>
+            <ul>
+                <li>English Teacher for IT at Yandex.Practicum (02/2023-current)</li>
+            </ul>
+            <h2 id="education">Education</h2>
+            <ul>
+                <li>VSU named after P.M. Masherov (2012-2017)</li>
+            </ul>
+            <h2 id="additional-education">Additional Education</h2>
+            <ul>
+                <li>RS School Front-End Developer Certificate (2024)</li>
+                <li>Meta Front-End Developer Professional Certificate (2023)</li>
+            </ul>
+            <h2 id="projects">Projects</h2>
+            <ul>
+                <li><a href="https://margarita-golubeva.github.io/rsschool-cv/" style="color: #1e3932;" target="_blank">RS School Project</a></li>
+            </ul>
+        </div>
+    </div>
     </main>
-
     <footer>
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" alt="github logo">
-        <span><a href="https://github.com/Margarita-Golubeva" target="_blank>">My GitHub</a></span>
-        <span><a href="https://rs.school/js/" target="_blank">«JavaScript/Front-end»</a></span>
-        <img src="https://rs.school/images/rs_school_js.svg" width="100px" alt="rs-school logo">
-        <p>2023</p>
+        <p class="footer1"><a href="https://github.com/Margarita-Golubeva" target="_blank>">My GitHub</a></p>
+        <p class="footer1"><a href="https://rs.school/js/" target="_blank">«JavaScript/Front-end»</a></p>
+        <p id="year">2023</p>
     </footer>
 </body>
 </html>
