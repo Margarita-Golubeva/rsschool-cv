@@ -1,6 +1,5 @@
 header {
   background-color: #006241;
-  size: 100%;
   padding: 10px;
   margin-bottom: 5px;
   font-size: 120%;
@@ -103,11 +102,7 @@ ul li {
     margin-top: 5px;
     font-size: 120%;
     padding: 10px 10px 0px 10px;
-    size: 100%;
-    text-align: center;
-    background-image: url(https://rs.school/images/rs_school_js.svg);
-    background-position: right;
-    background-repeat: no-repeat;
+    text-align: left;
   }
 
   .footer1 {
